@@ -1,0 +1,17 @@
+{
+  "name": "disc_text_bot",
+  "version": "1.0.0",
+  "description": "Testing out a bot for discord",
+  "main": "testBot.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anto Rin",
+  "license": "ISC"
+}
